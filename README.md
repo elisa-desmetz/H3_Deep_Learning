@@ -20,3 +20,4 @@ Ajout du fichier pkl (fichier de poids) associé au modèle pour permettre le re
 https://mybinder.org/v2/gh/elisa-desmetz/H3_Deep_Learning/HEAD?urlpath=%2Fvoila%2Frender%2Fdog_classifier.ipynb
 
 # 03-Atelier Karas
+Différentes couches, différentes façon de processer les données. Chaque couche d'un réseau de neurone est un neurone i prenant l'output du neurone i-1 et sortant une valeur pour le neurone i+1.
