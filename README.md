@@ -11,6 +11,12 @@ Entrainer des algorithmes robustes par rapport au bruit, au biais, c'est entrain
 
 Transfert Learning : le modèle de base répond à un problème général, mais il est possible de l'entrainer pour répondre à des problèmes spécifiques.
 
+# Glossaire
+epoch : etapes, itération d'entrainement
+batch size : taille de l'échantillon
+bloc de convolution : couches de convolution + pooling
+
+
 # 02-Dogs
 Check if the picture of a dog is a retriever, a doberman or a husky
 Binder voila render
